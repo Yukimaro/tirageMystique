@@ -1,0 +1,5 @@
+roi de pique;roi de trefle;roi de coeur;roi de carreau;reine de pique;reine de coeur;reine de trefle
+Le Cavalier;La Feuille de trefle;Le Bateau;La Maison;L'Arbre;Les Nuages;Le Serpent;Le Cercueil;Les Fleurs;La Faux;Les Verges;Les Chouettes;L'Enfant;Le Renard;L'Ours;Les Etoiles;Les Cygnognes;Le Chien;La Tour;Le Parc;La Montagne;Les Sentiers;Les Souris;Le Coeur;L'anneau;Le Livre;La Lettre;Le Monsieur;La Dame;Les Lys;Le Soleil;La Lune;La Cle;Les Poissons;L'Ancre;La Croix
+soleil;lune;geisha;chance;la montagne
+imperatrice;empereur;l amoureux;le pendu
+
